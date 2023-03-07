@@ -1,3 +1,6 @@
  -> Person A started developing the chat app
  
  -> person B making UI for the chat system
+
+ -> One more small feature
+ 
