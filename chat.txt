@@ -1,3 +1,10 @@
  -> Person A started developing the chat app
  
+<<<<<<< HEAD
  -> messages configured
+=======
+ -> person B making UI for the chat system
+
+ -> One more small feature
+ 
+>>>>>>> 7153514b2adf1a012a881fd61f765763967c69fb
