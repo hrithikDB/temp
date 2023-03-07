@@ -1,2 +1,3 @@
  -> Person A started developing the chat app
  
+ -> messages configured
